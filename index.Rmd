@@ -1,0 +1,21 @@
+---
+title: "Fernando de Pol Mayer"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+[![Build Status](https://travis-ci.org/fernandomayer/SWC-UFPR.svg)](https://travis-ci.org/fernandomayer/SWC-UFPR)
+
+## SWC-UFPR
+
+Material utilizado no workshop do [Software Carpentry e Data Carpentry na
+UFPR][1], 01-03 de agosto, 2016.
+
+
+
+[1]: http://abelsiqueira.github.io/2016-08-01-ufpr/
