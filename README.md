@@ -1,8 +1,8 @@
-# fernandomayer.github.io
+# SWC-UFPR
 
-[![Build Status](https://travis-ci.org/fernandomayer/fernandomayer.github.io.svg)](https://travis-ci.org/fernandomayer/fernandomayer.github.io)
+[![Build Status](https://travis-ci.org/fernandomayer/SWC-UFPR.svg)](https://travis-ci.org/fernandomayer/SWC-UFPR)
 
-Código fonte do site pessoal.
+Código fonte do material utilizado no SWC-UFPR
 
 ## Licença
 
